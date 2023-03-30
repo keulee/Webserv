@@ -7,13 +7,17 @@
 
 ### ⚙️ How to build
 
-You can run Linux OS (used Epoll library)
+You can run on Linux OS (used Epoll)
+```
+$> cd Webserv && make
+$> ./webserv [configuration file]
 
-``$> cd Webserv && make``
-<br>
-``$> ./webserv [configuration file]``
+ex) ./webserv config/conf/sample.conf
+```
 
-This will serve a local demo page on ``http://localhost:8080``
+* You have the option to run without a configuration file, which will automatically set the default configuration file.
+
+After building, you can check a local demo page on **http://localhost:8080**
 
 ### 🚩Team
 
