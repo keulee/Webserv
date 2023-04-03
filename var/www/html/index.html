@@ -17,12 +17,19 @@ p{
 text-align:center;
 font-size:15px;
 }
-
 .container
 {
 width:1000px;
 margin: 0 auto;
-margin-top:15%;
+margin-top:5%;
+}
+.footer{
+	text-align: right;
+}
+a
+{
+	text-decoration: none;
+	color: black;
 }
 </style>
 </head>
@@ -30,10 +37,8 @@ margin-top:15%;
 <div class="container">
 	<h1>Welcome to our Webserv !</h1><br>
 <h2>If you see this page, the our web server is successfully installed and working.<br>Thank you for using our Webserv.</h2>
-<p>More information go to <a href="https://github.com/zeroet/Webserv">our git</a></p>
+<p>For more information, check <a href="https://github.com/keulee/Webserv">github</a></p>
 </div>
-
-</br>
 </br>
 <div>
   	<body>
@@ -45,8 +50,6 @@ margin-top:15%;
     	</form>
   	</body>
 </div>
-</br>
-</br>
 <div>
 	<body>
 	  	<div>GET test</div>
@@ -55,12 +58,12 @@ margin-top:15%;
 			<input type="text" name="age" placeholder="Enter age here">
 			<input type="submit" value="Submit">
 	  	</form>
+		<div>Check phpinfo</div>
 	  	<form action="./get/phpinfo.php" method="get">
 			<input type="submit" value="phpInfo">
 	  	</form>
 	</body>
 </div>
-</br>
 </br>
 <div>
 	<body>
@@ -75,7 +78,6 @@ margin-top:15%;
 	</body>
 </div>
 </br>
-</br>
 <div>
 	<body>
 	  	<div>Autoindex</div>
@@ -85,9 +87,7 @@ margin-top:15%;
 	</body>
 </div>
 </br>
-</br>
 <div>
-	<body>
 		<div>Redirection to google</div>
 		<form action="redirection_google/" method="get">
 		  <input type="submit" value="redirection to google">
@@ -100,5 +100,12 @@ margin-top:15%;
 		<form action="redirection_error/" method="get">
 		  <input type="submit" value="redirection to error page">
 		</form>
-	</body>
 </div>
+<br>
+</body>
+<hr>
+<footer>
+	<div class="footer">
+	Webserv@2022 with <a href="https://profile.intra.42.fr/users/cjung-mo">@cjung-mo</a> <a href="https://profile.intra.42.fr/users/eyoo">@eyoo</a> <a href="https://profile.intra.42.fr/users/hyungyoo">@hyungyoo</a> <a href="https://profile.intra.42.fr/users/seyun">@seyun</a> <a href="https://profile.intra.42.fr/users/keulee">@keulee</a>
+	</div>
+</footer>
