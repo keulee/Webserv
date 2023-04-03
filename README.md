@@ -21,7 +21,15 @@ After building, you can check a local demo page on **http://localhost:8080**
 
 ### 🚩Team
 
-Server Config : cjung-mo, hyungyoo.   
-SocketI/O : seyun.  
-Request Parsing: keulee.   
-Resoponse Parsing: eyoo.   
+<p>
+   <img src="https://emoji.slack-edge.com/T039P7U66/the-federation/cf19b04ff8baa385.png" width="25px"/><img src="https://img.shields.io/badge/cjung--mo(Jungmoo Cheon) : Server Config -000000?style=for-the-badge&logoColor=white"/> <a href="https://profile.intra.42.fr/users/cjung-mo"><img src="https://img.shields.io/badge/Intra-000000?style=for-the-badge&logo=42&logoColor=white"/></a> <a href="https://github.com/jmcheon"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/></a>
+  <br>
+   <img src="https://emoji.slack-edge.com/T039P7U66/the-federation/cf19b04ff8baa385.png" width="25px"/><img src="https://img.shields.io/badge/eyoo(Eunmi Yoo) : Resoponse Parsing -000000?style=for-the-badge&logoColor=white"/> <a href="https://profile.intra.42.fr/users/eyoo"><img src="https://img.shields.io/badge/Intra-000000?style=for-the-badge&logo=42&logoColor=white"/></a> <a href="https://github.com/EunmiYoo"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/></a>
+   <br>
+   <img src="https://emoji.slack-edge.com/T039P7U66/the-assembly/157ba128c687991d.png" width="25px"/><img src="https://img.shields.io/badge/hyungyoo (Hyungjun Yoo) : Server Config -000000?style=for-the-badge&logoColor=white"/> <a href="https://profile.intra.42.fr/users/hyungyoo"><img src="https://img.shields.io/badge/Intra-000000?style=for-the-badge&logo=42&logoColor=white"/></a> <a href="https://github.com/hyungyoo"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/></a>
+  <br>
+   <img src="https://emoji.slack-edge.com/T039P7U66/the-order/bc19034a94c85e26.png" width="25px"/><img src="https://img.shields.io/badge/seyun (Seokchan Yun) : SocketI/O -000000?style=for-the-badge&logoColor=white"/> <a href="https://profile.intra.42.fr/users/seyun"><img src="https://img.shields.io/badge/Intra-000000?style=for-the-badge&logo=42&logoColor=white"/></a> <a href="https://github.com/zeroet"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/></a>
+  <br>
+   <img src="https://emoji.slack-edge.com/T039P7U66/the-order/bc19034a94c85e26.png" width="25px"/><img src="https://img.shields.io/badge/keulee (Keungeun Lee) : Request Parsing -000000?style=for-the-badge&logoColor=white"/> <a href="https://profile.intra.42.fr/users/keulee"><img src="https://img.shields.io/badge/Intra-000000?style=for-the-badge&logo=42&logoColor=white"/></a> <a href="https://github.com/keulee"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/></a>
+  <br>
+</p>
